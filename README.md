@@ -41,7 +41,7 @@
 **CHECK YOUR WIRE CONNECTION**
 
 
-![AWDRFAWF](https://github.com/avivsabilal29/xerpihan_IotMic/assets/89498280/dc2d1624-fa5c-4756-937a-12b966f9d026)
+![Schematic_XERPIHAN_2024-01-16](https://github.com/avivsabilal29/xerpihan_IotMic/assets/89498280/0ac1c44b-7eb0-4c62-89d4-e6fcf1d961e0)
 
 
 
